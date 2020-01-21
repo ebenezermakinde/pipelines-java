@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/v-ebmaki/exploring-pipelines/_apis/build/status/ebenezermakinde.pipelines-java?branchName=master)](https://dev.azure.com/v-ebmaki/exploring-pipelines/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
